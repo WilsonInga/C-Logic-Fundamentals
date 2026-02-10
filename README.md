@@ -35,7 +35,7 @@ g++ 1-Numero-Par-Impar.cpp -o par_impar
 
 Este proyecto es mantenido por:
 
-* **[sindkz](https://www.google.com/search?q=https://github.com/WilsonInga)**
+* **[Wilson Inga](https://github.com/WilsonInga)**
 
 ---
 
