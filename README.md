@@ -40,5 +40,3 @@ Este proyecto es mantenido por:
 ---
 
 *¡Gracias por visitar este repositorio! Si encuentras útil este código, no dudes en darle una ⭐ estrella.*
-
-```
